@@ -17,8 +17,8 @@ To write a program to find the LU Decomposition of a matrix.
 ### To print L and U matrix
 ~~~
 Program to find the LU Decomposition of a matrix.
-Developed by: Popuri Siva Naga NIthin
-RegisterNumber: 21003942
+Developed by: Manoj Guna Sundar Tella
+RegisterNumber: 21003796
 import numpy as np
 from scipy.linalg import lu
 a=eval(input())
@@ -30,8 +30,8 @@ To print X matrix (solution to the equations)
 
 ### Program to solve the given matrix using LU Decompostion.
 ~~~ 
-Developed by: Popuri Siva Naga Nithin
-RegisterNumber: 21003942
+Developed by:  Manoj Guna Sundar Tella
+RegisterNumber: 21003796
 import numpy as np
 from scipy.linalg import lu_factor,lu_solve
 a = eval(input())
